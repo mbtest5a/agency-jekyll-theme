@@ -17,9 +17,9 @@ header2: Join us
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: John Lai
   pic: 1
-  position: Lead Designer
+  position: Chairman & CEO
   social:
     - title: twitter
       url: #
@@ -28,9 +28,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Vera Huang
   pic: 2
-  position: Lead Marketer
+  position: Marketing
   social:
     - title: twitter
       url: #
@@ -39,9 +39,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Carlos Chen
   pic: 3
-  position: Lead Developer
+  position: iOS Engineer
   social:
     - title: twitter
       url: #
@@ -50,9 +50,86 @@ people:
     - title: google-plus
       url: #
       
-- name: Diana Petersen
+- name: Ariel Shih
   pic: 3
-  position: Lead Developer
+  position: Android Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: David Hsu
+  pic: 3
+  position: Backend Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Eric Chen
+  pic: 3
+  position: iOS & Android Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Katie Huang
+  pic: 3
+  position: HR Specialist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Chen-Yu Yang
+  pic: 3
+  position: Data Scientist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Shiva Huang
+  pic: 3
+  position: iOS Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Yufan Ho
+  pic: 3
+  position: Backend Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Shik Chen
+  pic: 3
+  position: Intern Engineer
   social:
     - title: twitter
       url: #
