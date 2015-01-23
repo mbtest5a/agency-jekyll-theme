@@ -20,123 +20,73 @@ people:
 - name: John Lai
   pic: 1
   position: Chairman & CEO
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  info:
+    - title: 美國哈佛大學
 
 - name: Vera Huang
   pic: 2
   position: Marketing
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  info:
+    - title: 國立政治大學
 
 - name: Carlos Chen
   pic: 3
   position: iOS Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立政治大學
       
 - name: Ariel Shih
   pic: 3
   position: Android Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
+    - title: 美國國際科展台灣代表
       
 - name: David Hsu
   pic: 3
   position: Backend Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
       
 - name: Eric Chen
   pic: 3
   position: iOS & Android Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
+    - title: 資訊奧林匹亞銅牌
       
 - name: Katie Huang
   pic: 3
   position: HR Specialist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
       
 - name: Chen-Yu Yang
   pic: 3
   position: Data Scientist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
+    - title: 數學奧林匹亞銀牌
       
 - name: Shiva Huang
   pic: 3
   position: iOS Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
       
 - name: Yufan Ho
   pic: 3
   position: Backend Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
+    - title: 資訊奧林匹亞銀牌
       
 - name: Shik Chen
   pic: 3
   position: Intern Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  info:
+    - title: 國立台灣大學
+    - title: 資訊奧林匹亞金牌
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
