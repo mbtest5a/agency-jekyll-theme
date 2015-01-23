@@ -12,10 +12,11 @@ color:
   secondary: 9bdcf5
   secondary-dark: 333
   
-header1: 想一同打造世界最大的音樂社群嗎？
-header2: Join us
+header1: This will be the greatest job of your career
+header2: Join us!
 
 # Team names, titles and social links
+team_subtitle: 這是個氣氛超棒的團隊，每個人都是很強的好人
 people:
 - name: John Lai
   pic: 1
@@ -102,26 +103,69 @@ social:
     url: http://github.com/jekyll
 
 # Hiring information
+hiring_subtitle: 若你想加入我們，請將履歷及作品集寄至 careers@mixerbox.com
+hiring_des: 薪資範圍上限非絕對，依實力敘薪，也歡迎屆退、應屆求職者！
 hiring:
 - name: iOS Engineer
   pic: 1.png
-  position: 負責iOS App新功能開發與維護
+  position: iOS App 新功能開發與維護
+  pay: 月薪 NT$60,000 - $100,000
+  must:
+    - title: Objective-C
+    - title: iOS SDK
+  plus:
+    - title: 有iOS APP作品與實際上架經驗（附連結佳）
 
 - name: Android Engineer
   pic: 2.png
-  position: 負責Android App新功能開發與維護
+  position: Android App 新功能開發與維護
+  pay: 月薪 NT$60,000 - $100,000
+  must:
+    - title: Java
+    - title: Android SDK
+  plus:
+    - title: 有Android APP作品與實際上架經驗（附連結佳）
 
 - name: Cloud Backend Engineer
   pic: 3.png
-  position: 負責網站新功能開發與後端維護
+  position: 新功能開發與後端維護
+  pay: 月薪 NT$60,000 - $100,000
+  must:
+    - title: Linux
+    - title: PHP
+  plus:
+    - title: MongoDB
+    - title: Amazon Web Service
   
 - name: Web Engineer
   pic: 4.png
-  position: 負責網站架設與維護
+  position: 網站架設與維護
+  pay: 月薪 NT$60,000 - $100,000
+  must:
+    - title: JavaScript
+    - title: CSS
+    - title: HTML
+    - title: ajax
+  plus:
+    - title: 網站實際製作經驗（附連結佳）
   
 - name: Marketing
   pic: 5.png
-  position: 讓更多人成為 MixerBox 的愛用者
+  position: 讓更多人成為 MixerBox 的愛用者！
+  pay: 月薪 NT$50,000 - $70,000
+  must:
+    - title: Must 1
+    - title: Must 2
+  plus:
+    - title: Plus 1
+    - title: Plus 2
+
+contact_des: 
+  如果你也跟我們一樣對創業及寫扣充滿熱忱、
+  喜歡跟大家一起腦力激盪讓產品變得更好、
+  想參與一個團隊成長壯大的過程、
+  想體會開發的產品立刻被數百萬人使用的成就感，
+  希望你一定要跟我們聯絡，讓我們有機會與你一起打造世界級的產品！
 
 # Postal address (add as many lines as necessary)
 address:

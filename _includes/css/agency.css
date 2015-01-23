@@ -649,6 +649,34 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+
+.hiring {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.hiring img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.hiring h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.hiring h5 {
+    margin-top: 7px;
+    margin-bottom: 5px;
+    text-transform: none;
+}
+
+.hiring p {
+    margin-top: 0;
+}
+
+
 aside.clients img {
     margin: 50px auto;
 }
@@ -736,6 +764,50 @@ footer ul.quicklinks {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+}
+
+ul.info {
+    margin-bottom: 0;
+    padding: 0;
+    text-align:center;
+}
+
+ul.info li {
+    list-style-type: none;
+}
+
+ul.hiring_info {
+    margin-bottom: 0;
+    padding: 0;
+    text-align:left;
+}
+
+ul.hiring_info li {
+    list-style-type: none;
+}
+
+#mycontainer {
+    display: table;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#myrow  {
+    display: table-row;
+}
+
+#myleft {
+    display: table-cell;
+    width: 10%;
+    text-align: right;
+}
+
+#myright {
+    padding-left: 10px;
+    display: table-cell;
+    width: 30%;
+    text-align: left;
 }
 
 ul.social-buttons {
